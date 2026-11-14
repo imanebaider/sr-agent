@@ -1,0 +1,28 @@
+# Template de protocole PRISMA 2020 (utilisable avec: python main.py --question "..." --protocol config/protocol_template.yaml)
+title: "Effect of physical exercise on depression: a systematic review"
+objective: "Assess whether physical exercise reduces depressive symptoms in adults."
+pico:
+  population: "Adults with depression or depressive symptoms"
+  intervention: "Structured physical exercise programmes"
+  comparator: "No exercise, usual care, or other treatment"
+  outcome: "Change in depressive symptoms (validated scales)"
+inclusion_criteria:
+  - "Peer-reviewed primary studies or systematic reviews"
+  - "Adult participants (18+) with depression or depressive symptoms"
+  - "Exercise intervention evaluated against a comparator"
+  - "Reports depressive symptoms outcome"
+exclusion_criteria:
+  - "Animal studies"
+  - "Study protocols without results"
+  - "Opinion pieces, editorials, conference abstracts"
+  - "Participants under 18"
+keywords:
+  - exercise
+  - physical activity
+  - depression
+  - depressive symptoms
+study_designs:
+  - randomized controlled trial
+  - systematic review
+  - cohort study
+year_from: 2010

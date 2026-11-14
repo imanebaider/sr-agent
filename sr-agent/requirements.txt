@@ -1,0 +1,15 @@
+langgraph>=0.2
+langchain-core>=0.3
+langchain-anthropic>=0.3
+langchain-google-genai
+langchain-groq
+langchain-ollama
+pydantic>=2
+requests
+chromadb
+rank-bm25
+pypdf
+pyyaml
+python-dotenv
+python-docx
+pytest

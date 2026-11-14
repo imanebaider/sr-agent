@@ -1,0 +1,4 @@
+# Optional: DOIs of studies you KNOW are relevant to your demo topic (one per line).
+# Used by `python eval/evaluate.py <run_dir> --gold eval/gold_dois.txt` to compute recall.
+# Example (replace with real ones, e.g. taken from a published Cochrane review):
+# 10.1002/14651858.CD004366.pub6
