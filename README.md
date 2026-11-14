@@ -13,7 +13,7 @@
 **Institution:** Faculté des Sciences et Techniques de Tanger, Université Abdelmalek Essaâdi<br>
 **Course:** FDO - M1 Agentic AI & Building AI Agents (Formation Doctorale Obligatoire)<br>
 **Course instructor:** Pr. Ikram Benabdelouahab<br>
-**Demo video (≤ 3 min):** <!-- TODO: link -->
+
 
 ## Table of Contents
 
